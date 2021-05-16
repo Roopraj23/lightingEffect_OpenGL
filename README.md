@@ -7,4 +7,4 @@ For Linux: lightingEffect.cpp -o lightingEffect -lglut -lGLU -lGL && ./lightingE
 Use A & S keys to increase and decrease the light on the object respectively.
 
 
-Try to change all the arguments and value and play with the code.
+Try to change all the arguments and values and play with the code.
